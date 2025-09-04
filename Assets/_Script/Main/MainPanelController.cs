@@ -6,19 +6,19 @@ public class MainPanelController : MonoBehaviour
     {
         GameManager.Instance.ChangeToGameScene(Constants.GameType.SinglePlay);
     }
-    
+
     public void OnClickDualPlayButton()
     {
         GameManager.Instance.ChangeToGameScene(Constants.GameType.DualPlay);
     }
-    
+
     public void OnClickMultiPlayButton()
     {
         GameManager.Instance.ChangeToGameScene(Constants.GameType.MultiPlay);
     }
-    
-    public void OnClickSettingsPlayButton()
+
+    public void OnClickSettingsButton()
     {
-        
+
     }
 }
