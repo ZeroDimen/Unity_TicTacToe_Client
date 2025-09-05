@@ -1834,6 +1834,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   confirmPanel: {fileID: 8850408643329393117, guid: d39e5cd8b0495544f9b87c09f2a5c22e, type: 3}
+  signinPanel: {fileID: 8850408643329393117, guid: ea6734476ff5eb1438eef1b3f2793f2b, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
